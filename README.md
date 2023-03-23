@@ -1,3 +1,3 @@
-# first-and-clumsy-project
-Html inception
-Www.devpatika.com
+#Dev patika frontend clumsy project
+
+dev patika Html/inception lesson
